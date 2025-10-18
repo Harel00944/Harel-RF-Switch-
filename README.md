@@ -1,5 +1,5 @@
 # Harel-RF-Switch-
-This PCB is an RF Switch Board designed for operation up to 1 GHz with minimal flatness variation, designed to achieve the best possible flatness considering the use of a standard JLCPCB 4-layer stack-up (non-RF specialized) in order to keep manufacturing costs low.
+This PCB is an RF Switch Board designed for operation up to 1 GHz with minimal flatness variation, designed to achieve the best possible flatness considering the use of a standard JLCPCB 4-layer stack-up (non-RF specialized) in order to keep manufacturing costs low (for self home project ).
 <img width="648" height="770" alt="image" src="https://github.com/user-attachments/assets/abf74be2-933b-411c-b4aa-1a39594855ad" />
 
 
