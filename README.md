@@ -1,2 +1,2 @@
 # Harel-RF-Switch-
-This PCB is an RF Switch Board designed for operation up to 1 GHz with minimal flatness variation, and it performs reliably up to 2.5 GHz in practice. The design is based on the F2932NBGP SPDT RF switch from Renesas, enabling digital control of RF signal routing between multiple paths.
+This PCB is an RF Switch Board designed for operation up to 1 GHz with minimal flatness variation, designed to achieve the best possible flatness considering the use of a standard JLCPCB 4-layer stack-up (non-RF specialized) in order to keep manufacturing costs low.
